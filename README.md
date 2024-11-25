@@ -21,3 +21,17 @@ Theory in concept of object-oriented programming, programming language and tools
 - ข้อดีข้อเสียของการใช้ภาษาโปรแกรมเชิงวัตถุ
 - การสร้างแบบจำลองวัตถุ
 
+## หน่วยที่ 2. แนะนำ .NET Framework และทบทวนการเขียนโปรแกรมขั้นพื้นฐาน
+
+- ชนิดต่างๆ ของ .NET Application
+- นิยามขององค์ประกอบสำคัญของ .NET
+- .NET Framework    
+- แนวทางการใช้งาน .NET Framework
+- การปฏิบัติการทดลอง  เรื่องทบทวนภาษา C#
+
+## หน่วยที่ 3 การให้นิยามวัตถุและ UML Diagram 1
+- Classification Abstraction
+  * การปฏิบัติการทดลอง การวาดแบบจำลอง Classification Abstraction ด้วยโปรแกรม plantUML และ mermaid
+- Aggregation Abstraction
+   * การปฏิบัติการทดลอง การวาดแบบจำลอง Aggregation Abstraction ด้วยโปรแกรม plantUML และ mermaid
+
