@@ -30,8 +30,53 @@ Theory in concept of object-oriented programming, programming language and tools
 - การปฏิบัติการทดลอง  เรื่องทบทวนภาษา C#
 
 ## หน่วยที่ 3 การให้นิยามวัตถุและ UML Diagram 1
+
 - Classification Abstraction
   * การปฏิบัติการทดลอง การวาดแบบจำลอง Classification Abstraction ด้วยโปรแกรม plantUML และ mermaid
 - Aggregation Abstraction
    * การปฏิบัติการทดลอง การวาดแบบจำลอง Aggregation Abstraction ด้วยโปรแกรม plantUML และ mermaid
+
+## หน่วยที่ 4 การให้นิยามวัตถุและ UML Diagram 2
+
+- Generalization Abstraction
+   * การปฏิบัติการทดลอง การวาดแบบจำลอง Generalization Abstraction ด้วยโปรแกรม plantUML และ mermaid
+- Association Abstraction
+   * การปฏิบัติการทดลอง การวาดแบบจำลอง Association Abstraction ด้วยโปรแกรม plantUML และ mermaid
+
+## หน่วยที่ 5 หลักและการใช้งาน Types
+- Types, predefined and user-defined type
+- The Stack and the Heap
+- Value Types and Reference Types
+- Type Casting
+- การปฏิบัติการทดลอง  การใช้งาน types ในภาษา C#
+
+## หน่วยที่ 6 หลักและการใช้งาน  variables
+
+- ประเภทของ Variables ในภาษา C#
+- Variables declaration
+- Variable Initializers
+- Static Typing and the dynamic Keyword
+- Nullable Types
+- การปฏิบัติการทดลอง การใช้งาน variables ในภาษา C#
+
+## หน่วยที่ 7 Class ตอนที่ 1
+- Overview of Classes
+- Declaring a Class
+- ส่วนประกอบของ Class 
+- การใช้งานคลาส
+- การปฏิบัติการทดลอง การสร้างและใช้งานคลาส ตอนที่ 1
+
+## หน่วยที่ 8 Class ตอนที่ 2
+- Attribute and Modifier
+- Instance vs static members
+- Members Constants
+- Properties
+- Constructors
+- Destructor
+- การปฏิบัติการทดลอง การสร้างและใช้งานคลาส ตอนที่ 2
+
+
+
+
+
 
