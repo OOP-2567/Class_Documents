@@ -75,8 +75,61 @@ Theory in concept of object-oriented programming, programming language and tools
 - Destructor
 - การปฏิบัติการทดลอง การสร้างและใช้งานคลาส ตอนที่ 2
 
+## หน่วยที่ 9 Class ตอนที่ 3
+- Operator
+- Indexers
+- Events
+- การปฏิบัติการทดลอง การสร้างและใช้งานคลาส ตอนที่ 3
 
+## หน่วยที่ 10 Class Inheritance ตอนที่ 1
+- รูปแบบการเขียน Class Inheritance
+- การเข้าถึงสมาชิกที่ derived จาก base Class
+- เงื่อนไขในการ inherited
+- การ inherited จาก class หลายชั้น
+- การปิดบัง (Masking)  สมาชิกของ Base Class
+- Using References to a Base Class
+- การปฏิบัติการทดลอง การสร้างและใช้งาน Class Inheritance ตอนที่ 1
 
+## หน่วยที่ 11 Class Inheritance   ตอนที่ 2
+- Virtual and Override Methods
+- การเข้าถึงสมาชิกโดย virtual และ override
+- การ Override Method ที่ผ่านการ overridden
+- การ override ด้วยคำสั่ง new
+- Constructors in Inheritance
+- Virtual and override Constructor
+- Constructor Initializers
+- การปฏิบัติการทดลอง การสร้างและใช้งาน Class Inheritance   ตอนที่ 2
 
+## หน่วยที่ 12 Interface
+- ลักษณะของ Interface
+- Interface implementation
+- การแก้ปัญหาด้วย Interface
+- การปฏิบัติการทดลอง การใช้งาน interface
+
+## หน่วยที่ 13 Polymorphism
+- Method Overloading      
+- Run Time Polymorphism
+- การสืบทอด virtual member
+- Abstract Members
+- Abstract Class
+- การปฏิบัติการทดลอง การใช้งาน Polymorphism
+
+## หน่วยที่ 14 Delegate
+- นิยามของ Delegate
+- Class vs. Delegate
+- การใช้งาน delegate
+- anonymous method
+- Lambda Expressions
+- การปฏิบัติการทดลอง 
+
+## หน่วยที่ 15 Generic และเทคนิคอื่นๆ
+- การสร้างและใช้งาน Generic Class
+- การสร้าง reference และ object
+- Generic Methods
+- Generic Methods กรณีมี  parameter หลายชนิด
+- Generic Structs
+- Generic Delegates
+- เทคนิคอื่นๆ ที่ควรทราบในการพัฒนาโปรแกรม OOP 
+- การปฏิบัติการทดลอง การใช้งาน generic
 
 
